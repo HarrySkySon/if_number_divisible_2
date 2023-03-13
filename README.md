@@ -1,5 +1,5 @@
 # if_number_divisible_2
-This program founds all numbers that are devide user input number without reminder. It does it in parallel mode!
+This program on Rust calculates all divisors of the user input number without reminder. It does it in parallel mode!
 
 This program prompts the user to enter a number, reads the input as a string, converts it to an unsigned 64-bit integer using the parse() method
 It checks if the user input number is divisible without a remainder using the modulo operator %. If the number is divisible,
